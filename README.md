@@ -1,67 +1,21 @@
-Python DSA Placement Preparation
+# Python DSA Practice 🚀
 
-This repository contains my daily DSA practice using Python.
+Hi! I'm a BTech student building strong foundations in **Data Structures and Algorithms using Python**.
 
-👋 About This Repository
+This repository showcases my learning journey, coding practice, and continuous improvement in problem-solving.
 
-Welcome to my Python DSA learning journey!
+### 🎯 Focus Areas
+- Python Programming
+- Data Structures & Algorithms
+- Logical Thinking & Problem-Solving
+- Time and Space Complexity
 
-This repository contains my solutions to Data Structures and Algorithms problems using Python.
+### 🛠️ Tech Stack
+- Python
+- VS Code
+- Git & GitHub
 
-I created this repository to improve my problem-solving skills, strengthen logical thinking, and prepare for technical interviews and placement opportunities.
+### 📈 Goal
+To strengthen my programming skills and prepare for software development opportunities.
 
-🎯 Objectives
-
-Master Data Structures and Algorithms using Python.
-
-Develop strong problem-solving skills.
-
-Understand different approaches to coding problems.
-
-Learn time and space complexity.
-
-Prepare for coding interviews and placements.
-
-Maintain consistency through daily practice.
-
-🛠️ Tech Stack
-
-Programming Language: Python 3
-
-Version Control: Git & GitHub
-
-Coding Practice: HackerRank & LeetCode
-
-📚 Topics Covered
-
-Python Fundamentals
-
-Arrays
-
-Strings
-
-Searching Algorithms
-
-Sorting Algorithms
-
-Hashing
-
-Two Pointers
-
-Sliding Window
-
-Recursion & Backtracking
-
-Linked Lists
-
-Stack & Queue
-
-Trees & Binary Search Trees
-
-Graphs
-
-Dynamic Programming
-
-📂 Repository Structure
-
-Each topic has a separate folder, and every problem has its own Python file.
+**Learning consistently. Practicing daily. Improving step by step.**
